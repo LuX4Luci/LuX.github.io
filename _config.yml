@@ -5,7 +5,7 @@ author:
   email: ""
   url: "https://lux4luci.github.io/LuX.github.io/"
 
-baseurl: ""
+baseurl: "/"
 google_analytics: G-VN9LC7D5VG
 source: .
 destination: ./_site
