@@ -1,16 +1,16 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Lucifer's Store 4 HACK Recipes
+description: "My Blog is for Hacking things ..."
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Hellhound"
+  email: ""
+  url: "LuX.github.io"
 
-baseurl: /
-
+baseurl: ""
+google_analytics: G-VN9LC7D5VG
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 3
+paginate: 5
 paginate_path: /page/:num/
 
 defaults:
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
-year : "2020"
+owner : "Lucifer69"
+year : "2021"
