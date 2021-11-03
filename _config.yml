@@ -6,7 +6,7 @@ author:
   url: "https://lux4luci.github.io/LuX.github.io/"
 
 baseurl: "/."
-google_analytics: G-VN9LC7D5VG
+google_analytics: G-L2Q6FY0207
 source: .
 destination: ./_site
 permalink: /:title
