@@ -305,7 +305,9 @@ kenobi@kenobi:~$ find / -perm -u=s -type f 2>/dev/null
 
 ```
 
-We copied the /bin/sh shell, called it curl, gave it the correct permissions and then put its location in our path. This meant that when the /usr/bin/menu binary was run, its using our path variable to find the "curl" binary.. Which is actually a version of /usr/sh, as well as this file being run as root it runs our shell as root!
+We copied the /bin/sh shell, called it curl, gave it the correct permissions and then put its location in our path.
+This meant that when the /usr/bin/menu binary was run, its using our path variable to find the "curl" binary.. Which is actually a version of /usr/sh,
+as well as this file being run as root it runs our shell as root!
 
 ```
 
