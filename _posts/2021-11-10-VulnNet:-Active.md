@@ -72,7 +72,8 @@ ___
 #  ↘️   ⬇️   ↙️
 ## Step 3 : ( **_Redis_** )
 
-- **Note:** If You Don't know what Redis is [`What is Redis and What Does It Do?`](https://www.youtube.com/watch?v=8A_iNFRP0F4)
+- **Note:** If You Don't know what Redis is :
+{% include youtube_embed.html id="8A_iNFRP0F4" %}
 - **Note 2:** Install redis tools in linux `apt-get install redis-tools ` 
 - **Note 3:** A usefull resources online [`HackTricks`](https://book.hacktricks.xyz/pentesting/6379-pentesting-redis)
 
