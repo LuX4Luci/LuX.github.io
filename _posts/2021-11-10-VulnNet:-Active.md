@@ -1,6 +1,6 @@
 - ### Operating System: Windows <img src="/img/02/00.png" alt="drawing" width="30"/>
 - ### Difficulty: Medium
-- ### Machine IP : 10.10.214.82
+- ### Machine IP : [](10.10.214.82)
 
 #  ↘️   ⬇️   ↙️
 ## Step 1 : Scanning Target .
@@ -72,10 +72,10 @@ ___
 #  ↘️   ⬇️   ↙️
 ## Step 3 : ( **_Redis_** )
 
-- **Note:** If You Don't know what Redis is :
+- **Note:** If You Don't know what Redis is : 
 {% include youtube_embed.html id="8A_iNFRP0F4" %}
 - **Note 2:** Install redis tools in linux `apt-get install redis-tools ` 
-- **Note 3:** A usefull resources online [`HackTricks`](https://book.hacktricks.xyz/pentesting/6379-pentesting-redis)
+- **Note 3:** A usefull resources online [`HackTricks`](https://book.hacktricks.xyz/pentesting/6379-pentesting-redis){:target="_blank"}
 
 ## Connecting to radis ➡️
 ### root@kali:~/thm/vulnNet:active# redis-cli -h 10.10.214.82
